@@ -283,6 +283,24 @@ ul {
         padding-left: 10px;
     }
 
+    .services-header-img {
+        width: 100%;
+        margin: auto;
+        padding: 30px 10px;
+    }
+
+    .middle-service-content {
+        width: 100%;
+        margin: auto;
+        padding: 30px 10px;
+    }
+
+    .bottom-service-content {
+        width: 100%;
+        margin: auto;
+        padding: 30px 10px;
+    }
+
   }
 
   /* ************ MOBILE STYLES 500px ************ */
@@ -337,6 +355,21 @@ ul {
 
     .contact p {
         line-height: 1;
+    }
+
+    .box-section {
+        flex-direction: column;
+        margin: 0 15px;
+    }
+
+    .bottom-service-content {
+        flex-direction: column;
+        padding: 15px;
+    }
+
+    .services-info-img {
+        margin: auto;
+        padding-top: 15px;
     }
 
 
